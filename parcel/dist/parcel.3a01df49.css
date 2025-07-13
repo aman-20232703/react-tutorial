@@ -1,0 +1,31 @@
+.card img {
+  width: 200px;
+}
+
+.card h3 {
+  margin: .2px;
+}
+
+.card p {
+  margin: 4px;
+  font-size: medium;
+}
+
+.card {
+  border: 2px solid #000;
+  border-radius: 15px;
+  width: 200px;
+  height: 300px;
+  overflow: hidden;
+}
+
+.card-content {
+  padding: 0 5px;
+}
+
+.container {
+  flex-wrap: wrap;
+  gap: 10px;
+  display: flex;
+}
+/*# sourceMappingURL=parcel.3a01df49.css.map */
